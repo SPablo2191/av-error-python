@@ -1,5 +1,5 @@
 for i in range (10):
-    import Factorial as factorial
+    import factorial as factorial
 
 
 factorial.factorial(10)
